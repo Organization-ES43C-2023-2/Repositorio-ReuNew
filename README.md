@@ -1,4 +1,4 @@
-# 🌎ReuNew! - Trabalho de Requisitos de Software - 2023.2
+# ReuNew! - Trabalho de Requisitos de Software - 2023.2
 
 ![Banner Screenshot](https://github.com/ReuNew/.github/blob/main/images/banner%20topo.png)
 O ReuNew é a solução definitiva para aprimorar a sua produtividade e eficiência ⏰ no dia a dia, seja você parte de uma equipe colaborativa ou trabalhando individualmente em projetos ou tarefas cotidianas. Com nosso aplicativo de organização e planejamento de tarefas, você pode 📄:
@@ -18,6 +18,8 @@ Deixe o ReuNew revolucionar a maneira como você planeja, organiza e alcança se
 <ul>
   <li><a href="https://github.com/ReuNew/Documentacao/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md">Requisitos Funcionais</a></li>
   <li><a href="https://github.com/ReuNew/Documentacao/blob/main/Requisitos%20de%20Usu%C3%A1rio/RNF.md">Requisitos Não Funcionais</a></li>
+  <li><a href="https://github.com/Organization-ES43C-2023-2/Repositorio-ReuNew/blob/main/Documentacao/Requisitos%20de%20Usu%C3%A1rio/HistoriasdeUsuario.md">Histórias de Usuário</a></li>
+  <li><a href="https://github.com/ReuNew/Documentacao/blob/main/Diag.%20de%20Classe.pdf">Diagrama de Classes</a></li>
 </ul>
 
 Clique nos links acima para entrar no nosso repositório e ver o desenvolvimento e andamento do projeto 📰, como a sua documentação, projeção, prototipação, e seu produto final.
