@@ -19,6 +19,7 @@ Deixe o ReuNew revolucionar a maneira como você planeja, organiza e alcança se
   <li><a href="https://github.com/ReuNew/Documentacao/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md">Requisitos Funcionais</a></li>
   <li><a href="https://github.com/ReuNew/Documentacao/blob/main/Requisitos%20de%20Usu%C3%A1rio/RNF.md">Requisitos Não Funcionais</a></li>
   <li><a href="https://github.com/Organization-ES43C-2023-2/Repositorio-ReuNew/blob/main/Documentacao/Requisitos%20de%20Usu%C3%A1rio/HistoriasdeUsuario.md">Histórias de Usuário</a></li>
+  <li><a href="https://github.com/Organization-ES43C-2023-2/Repositorio-ReuNew/blob/main/Documentacao/Diag.%20de%20Atividades.pdf">Diagrama de Atividades</a></li>
   <li><a href="https://github.com/ReuNew/Documentacao/blob/main/Diag.%20de%20Classe.pdf">Diagrama de Classes</a></li>
 </ul>
 
@@ -35,5 +36,15 @@ Clique nos links acima para entrar no nosso repositório e ver o desenvolvimento
   <li><a href="https://github.com/LuisAugust01">Luís Augusto</a></li>
   <li><a href="https://github.com/Pedro-Landgraf">Pedro Lucas</a></li>
 </ul>
+
+---
+
+
+## Protótipo
+<div>
+  <a href="https://www.figma.com/proto/add3sqx5cyeCAwyusF5c8e/ReuNew?type=design&node-id=2-129&t=g8lE6VJjpZzgO1BX-0&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A125">Clique Aqui para Ver</a>
+</div>
+
+
 
 © 2023 ReuNew. Todos os direitos reservados.
