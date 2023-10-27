@@ -27,10 +27,13 @@ Clique nos links acima para entrar no nosso repositório e ver o desenvolvimento
 ---
 
 ## Integrantes
-- Antônio Freire
-- Gabriel Xavier
-- Gabriel Kenji
-- Gleisson Santos
-- Pedro Lucas
+<ul>
+  <li><a href="https://github.com/AntonioFreire203">Antônio Freire</a></li>
+  <li><a href="https://github.com/Xavier909">Gabriel Xavier</a></li>
+  <li><a href="https://github.com/Jackoki">Gabriel Kenji</a></li>
+  <li><a href="https://github.com/gleisson-santos-dev">Gleisson Santos</a></li>
+  <li><a href="https://github.com/LuisAugust01">Luís Augusto</a></li>
+  <li><a href="https://github.com/Pedro-Landgraf">Pedro Lucas</a></li>
+</ul>
 
 © 2023 ReuNew. Todos os direitos reservados.
