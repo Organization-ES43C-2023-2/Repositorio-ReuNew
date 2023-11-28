@@ -21,6 +21,7 @@ Deixe o ReuNew revolucionar a maneira como você planeja, organiza e alcança se
   <li><a href="https://github.com/Organization-ES43C-2023-2/Repositorio-ReuNew/blob/main/Documentacao/Requisitos%20de%20Usu%C3%A1rio/HistoriasdeUsuario.md">Histórias de Usuário</a></li>
   <li><a href="https://github.com/Organization-ES43C-2023-2/Repositorio-ReuNew/blob/main/Documentacao/Diag.%20de%20Atividades.pdf">Diagrama de Atividades</a></li>
   <li><a href="https://github.com/ReuNew/Documentacao/blob/main/Diag.%20de%20Classe.pdf">Diagrama de Classes</a></li>
+  <li><a href="https://github.com/Organization-ES43C-2023-2/Repositorio-ReuNew/blob/main/Documentacao/Diag.%20de%20Caso%20de%20Uso.pdf">Diagrama de Caso de Uso</a></li>
 </ul>
 
 Clique nos links acima para entrar no nosso repositório e ver o desenvolvimento e andamento do projeto 📰, como a sua documentação, projeção, prototipação, e seu produto final.
